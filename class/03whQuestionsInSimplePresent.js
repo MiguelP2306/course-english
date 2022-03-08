@@ -23,4 +23,11 @@
 
   Which is your work
   Which do you sleep hour
+
+
+  Did
+  Wh + auxiliary verb + subject + verb + object
+
+  Sentences
+  When + did + you + finish + your homework
 */
